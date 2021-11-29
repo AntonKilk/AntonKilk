@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🤓 I am a medical engineer with 9+ years of experience in Cardiac Electrophysiology field. Check my [linkedIn](https://www.linkedin.com/in/anton-kilk-b1863130/).
+- 🎓I’m currently studying coding in [Hive Helsinki](https://www.hive.fi/en/) (School 42).
+- 💊 I’m looking to collaborate on **health/healthcare** related projects.
+
 <!--
 **AntonKilk/AntonKilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
