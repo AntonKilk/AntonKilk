@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🤓 I am a medical engineer with 10+ years of experience in international medical companies. Check my [LinkedIn](https://www.linkedin.com/in/anton-kilk-b1863130/).
-- 🎓I’m currently studying in [Hive Helsinki](https://www.hive.fi/en/) (School 42).
-- 💊 I’m looking to collaborate on webdev, preferably **health** related projects.
+- 🤓 I am a medical engineer with 10+ years of experience in international medical companies.
+- 🎓I’m currently studying in [Hive Helsinki](https://www.hive.fi/en/) (School 42). 
+- 💊 I’m looking to be involved in **health** related projects.
 
 <!--
 **AntonKilk/AntonKilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
